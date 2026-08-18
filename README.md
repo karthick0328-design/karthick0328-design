@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="assets/header-banner.svg" alt="Karthick Pandi - GitHub Profile Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/header-banner.svg" alt="Karthick Pandi - GitHub Profile Header" width="100%" />
 
   <br/><br/>
 
@@ -23,13 +23,13 @@
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## 👨‍💻 About Me
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <p>
         Hi there! 👋 I'm <b>Karthick Pandi</b>, a passionate <b>Full Stack Developer</b> with a Master's degree in Computer Applications (MCA). I specialize in engineering high-performance web platforms, interactive 3D visualizations, and AI-powered automation tools.
       </p>
@@ -43,9 +43,9 @@
         <li>⚡ <b>Superpower</b>: Bridging robust backend architecture with pixel-perfect frontend UI</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthick0328-design&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="100%" />
+        <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/top-languages.svg" alt="Top Languages" width="100%" />
       </div>
     </td>
   </tr>
@@ -53,7 +53,7 @@
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## 🛠️ Tech Stack & Capabilities
 
@@ -111,7 +111,7 @@
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## 🌟 Featured Projects
 
@@ -182,26 +182,17 @@
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=karthick0328-design&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Karthick's GitHub Stats" height="165" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthick0328-design&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="165" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/stats-card.svg" alt="GitHub Developer Profile Metrics" width="90%" />
 </div>
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## 💼 Work Experience & Education
 
@@ -233,7 +224,7 @@
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## ⚡ Currently Exploring & Building
 
@@ -245,7 +236,7 @@
 
 <br/>
 
-<img src="assets/section-divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
 ## 📬 Connect With Me
 
