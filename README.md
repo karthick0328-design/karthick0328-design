@@ -170,7 +170,6 @@ Motivated **Full Stack Developer** with a Master's degree in Computer Applicatio
         <li><b>Key Feature</b>: Contextual URL detection & right-click text clipping.</li>
         <li><b>Privacy</b>: 100% local storage with offline JSON backup export.</li>
       </ul>
-      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Digital Marketing Platform</h3>
@@ -184,7 +183,6 @@ Motivated **Full Stack Developer** with a Master's degree in Computer Applicatio
         <li><b>Key Feature</b>: Automated NLP blog post generator & competitor insights.</li>
         <li><b>UI/UX</b>: Built with React & Tailwind CSS for fast page rendering.</li>
       </ul>
-      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -200,7 +198,6 @@ Motivated **Full Stack Developer** with a Master's degree in Computer Applicatio
         <li><b>Key Feature</b>: Real-time 3D WebGL rendering of biological compounds.</li>
         <li><b>Backend Integration</b>: Integrated APIs for parsing scientific datasets.</li>
       </ul>
-      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Full-Stack E-Commerce Platform</h3>
@@ -214,7 +211,6 @@ Motivated **Full Stack Developer** with a Master's degree in Computer Applicatio
         <li><b>Key Feature</b>: Secure JWT session validation & shopping cart checkout.</li>
         <li><b>Admin Panel</b>: Order management & customer metrics tracking.</li>
       </ul>
-      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
   </tr>
 </table>
