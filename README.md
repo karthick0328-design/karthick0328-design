@@ -1,22 +1,21 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/header-banner.svg" alt="Karthick Pandi - GitHub Profile Header" width="100%" />
+  <!-- Hero Header Banner -->
+  <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/header-banner.svg" alt="Karthick Pandi - Full Stack & 3D Web Developer" width="100%" />
 
   <br/><br/>
 
-  <!-- Quick Intro Badges -->
-  <a href="https://linkedin.com/in/karthick-pandi-006156279">
+  <!-- Clean Contact & Social Actions (No Badge Spam) -->
+  <a href="https://linkedin.com/in/karthick-pandi-006156279" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:karthickpandi0328@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/karthick0328-design">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/karthick0328-design?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
   </a>
 
 </div>
@@ -27,30 +26,27 @@
 
 ## 👨‍💻 About Me
 
-<table border="0">
+Motivated **Full Stack Developer** with a Master's degree in Computer Applications (MCA) and hands-on experience building responsive web applications, interactive 3D visualizers, and AI-driven workflow tools. Focused on creating high-performance digital experiences with modern JavaScript/TypeScript frameworks and Python backends.
+
+<br/>
+
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>
-        Hi there! 👋 I'm <b>Karthick Pandi</b>, a passionate <b>Full Stack Developer</b> with a Master's degree in Computer Applications (MCA). I specialize in engineering high-performance web platforms, interactive 3D visualizations, and AI-powered automation tools.
-      </p>
-      <p>
-        With professional experience spanning full-stack JS/TS ecosystems, Python microservices, and 3D graphics rendering, I focus on turning complex technical challenges into intuitive, high-speed user experiences.
-      </p>
-      <ul>
-        <li>🌐 <b>Location</b>: Madurai, Tamil Nadu, India</li>
-        <li>🎓 <b>Education</b>: Master of Computer Applications (MCA)</li>
-        <li>💼 <b>Current Focus</b>: Full-Stack Web Development, 3D Web Graphics & AI Tooling</li>
-        <li>⚡ <b>Superpower</b>: Bridging robust backend architecture with pixel-perfect frontend UI</li>
-      </ul>
+    <td width="25%" align="center">
+      📍 <b>Location</b><br/>
+      <sub>Madurai, Tamil Nadu, India</sub>
     </td>
-    <td width="40%" valign="top" align="center">
-      <h3>📊 Most Used Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-42%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/JavaScript-32%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-        <img src="https://img.shields.io/badge/HTML5_%26_CSS3-16%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
+    <td width="25%" align="center">
+      🎓 <b>Education</b><br/>
+      <sub>MCA (Master of Computer Apps)</sub>
+    </td>
+    <td width="25%" align="center">
+      💼 <b>Role</b><br/>
+      <sub>Full Stack Web Developer</sub>
+    </td>
+    <td width="25%" align="center">
+      ⚡ <b>Core Focus</b><br/>
+      <sub>Full-Stack + 3D Web + AI</sub>
     </td>
   </tr>
 </table>
@@ -59,56 +55,98 @@
 
 <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
-## 🛠️ Tech Stack & Capabilities
+## 🛠️ Tech Stack & Tooling
 
+### 🚀 Frontend Development
 <table border="0" width="100%">
-  <tr>
-    <td width="20%"><b>🚀 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <tr align="center">
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="38" height="38" alt="React" /><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/nextdotjs/white" width="38" height="38" alt="Next.js" /><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" height="38" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="38" height="38" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="38" height="38" alt="Tailwind CSS" /><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="38" height="38" alt="HTML5" /><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td width="14%">
+      <img src="https://cdn.simpleicons.org/css/1572B6" width="38" height="38" alt="CSS3" /><br/>
+      <sub><b>CSS3</b></sub>
     </td>
   </tr>
-  <tr>
-    <td width="20%"><b>⚙️ Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</table>
+
+<br/>
+
+### ⚙️ Backend & Databases
+<table border="0" width="100%">
+  <tr align="center">
+    <td width="20%">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="38" height="38" alt="Node.js" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://cdn.simpleicons.org/express/white" width="38" height="38" alt="Express.js" /><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="38" height="38" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="38" height="38" alt="FastAPI" /><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td width="20%">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="38" height="38" alt="MongoDB" /><br/>
+      <sub><b>MongoDB</b></sub>
     </td>
   </tr>
-  <tr>
-    <td width="20%"><b>🛢️ Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</table>
+
+<br/>
+
+### 🎨 3D, Creative & Developer Tools
+<table border="0" width="100%">
+  <tr align="center">
+    <td width="16%">
+      <img src="https://cdn.simpleicons.org/threedotjs/white" width="38" height="38" alt="Three.js" /><br/>
+      <sub><b>Three.js</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="20%"><b>🎨 3D & Creative</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=react&logoColor=47A248" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <td width="16%">
+      <img src="https://cdn.simpleicons.org/react/47A248" width="38" height="38" alt="React Three Fiber" /><br/>
+      <sub><b>R3F</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="20%"><b>🛠️ Tools & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <td width="16%">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="38" height="38" alt="Figma" /><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+    <td width="16%">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="38" height="38" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td width="16%">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="38" height="38" alt="Docker" /><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td width="16%">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="38" height="38" alt="Postman" /><br/>
+      <sub><b>Postman</b></sub>
     </td>
   </tr>
 </table>
@@ -123,32 +161,30 @@
   <tr>
     <td width="50%" valign="top">
       <h3>📌 JANO — Chrome Tab Memo Manager</h3>
-      <p>A local-first, privacy-focused Chrome Extension (Manifest V3) that eliminates browser tab clutter by binding contextual notes, clipped text, categories, and due dates directly to active URLs.</p>
+      <p>A local-first Chrome Extension (Manifest V3) that eliminates browser tab clutter by binding contextual notes, clipped text, categories, and due dates directly to active URLs.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chrome_Storage-00F2FE?style=flat-square" />
+        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JS" /> <b>JavaScript</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="18" height="18" alt="Chrome" /> <b>Manifest V3</b>
       </p>
-      <hr/>
       <ul>
-        <li><b>Key Highlights</b>: Contextual URL detection, right-click text clipping, central dashboard, keyboard shortcuts.</li>
-        <li><b>Privacy First</b>: Zero cloud tracking, offline backup export/import.</li>
+        <li><b>Key Feature</b>: Contextual URL detection & right-click text clipping.</li>
+        <li><b>Privacy</b>: 100% local storage with offline JSON backup export.</li>
       </ul>
+      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Digital Marketing Platform</h3>
       <p>An intelligent web solution designed to automate SEO content workflows, generate Yoast-compliant blog posts using NLP models, and perform automated competitor analysis.</p>
       <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" height="18" alt="React" /> <b>React.js</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18" height="18" alt="Node" /> <b>Node.js</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="18" height="18" alt="Python" /> <b>Python</b>
       </p>
-      <hr/>
       <ul>
-        <li><b>Impact</b>: Reduced manual workflow times by 40% for marketing analysts.</li>
-        <li><b>Performance</b>: Built responsive Tailwind interfaces achieving 25% faster load speeds.</li>
+        <li><b>Key Feature</b>: Automated NLP blog post generator & competitor insights.</li>
+        <li><b>UI/UX</b>: Built with React & Tailwind CSS for fast page rendering.</li>
       </ul>
+      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
   </tr>
   <tr>
@@ -156,29 +192,69 @@
       <h3>🧬 3D Molecular Visualization System</h3>
       <p>An interactive scientific visualization platform enabling researchers to explore 3D biological compound models, chemical structures, and molecular interactions in real-time.</p>
       <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" height="18" alt="React" /> <b>React.js</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/threedotjs/white" width="18" height="18" alt="Three.js" /> <b>Three.js</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="18" height="18" alt="Python" /> <b>Python</b>
       </p>
-      <hr/>
       <ul>
-        <li><b>Core Feature</b>: Real-time WebGL rendering of complex biological structures.</li>
-        <li><b>Architecture</b>: Integrated backend APIs for parsing scientific datasets.</li>
+        <li><b>Key Feature</b>: Real-time 3D WebGL rendering of biological compounds.</li>
+        <li><b>Backend Integration</b>: Integrated APIs for parsing scientific datasets.</li>
       </ul>
+      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Full-Stack E-Commerce Platform</h3>
       <p>A full-featured e-commerce application equipped with real-time shopping cart management, JWT authentication, order tracking, and an administrative metrics dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" height="18" alt="React" /> <b>React.js</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18" height="18" alt="Node" /> <b>Node.js</b> &nbsp;|&nbsp;
+        <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18" height="18" alt="Mongo" /> <b>MongoDB</b>
       </p>
-      <hr/>
       <ul>
-        <li><b>Security</b>: End-to-end JWT session validation & sanitized payload handling.</li>
-        <li><b>UX Optimization</b>: Smooth checkout flow with minimal friction.</li>
+        <li><b>Key Feature</b>: Secure JWT session validation & shopping cart checkout.</li>
+        <li><b>Admin Panel</b>: Order management & customer metrics tracking.</li>
+      </ul>
+      <p><a href="https://github.com/karthick0328-design"><b>View Project Repository ➔</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
+
+## 💼 Work Experience & Education
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Work Experience</h3>
+      <p><b>Full Stack Developer</b><br/>
+      <sub>Ponnaiya's code and genome pvt ltd &bull; July 2025 – July 2026</sub></p>
+      <ul>
+        <li>Developed full-stack e-commerce platforms & 3D Molecular Visualization Systems.</li>
+        <li>Enabled researchers to explore biological compounds via dynamic 3D WebGL models.</li>
+      </ul>
+      <hr/>
+      <p><b>Fullstack Developer (Intern)</b><br/>
+      <sub>Geosoft Technologies &bull; Jan 2025 – Jun 2025 &bull; Madurai, India</sub></p>
+      <ul>
+        <li>Developed AI-powered SEO & digital marketing automation tools.</li>
+        <li>Built responsive React/Tailwind interfaces & integrated Spring Boot endpoints.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <p><b>Master of Computer Applications (MCA)</b><br/>
+      <sub>KLN College of Engineering &bull; 2023 – 2025</sub></p>
+      <ul>
+        <li>Advanced Web Development, Database Architecture, & Software Engineering.</li>
+      </ul>
+      <hr/>
+      <p><b>Bachelor of Computer Science (B.Sc CS)</b><br/>
+      <sub>The American College &bull; 2020 – 2023</sub></p>
+      <ul>
+        <li>Core Computer Science, Programming Languages, & Algorithms.</li>
       </ul>
     </td>
   </tr>
@@ -188,63 +264,11 @@
 
 <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
-## 📈 Developer Metrics & Highlights
+## ⚡ Currently Exploring
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Public_Repos-5%2B-00F2FE?style=for-the-badge&logo=github&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Experience-1%2B_Years-4ADE80?style=for-the-badge&logo=codeforces&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Education-MCA_Grad-C084FC?style=for-the-badge&logo=academic&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Status-Open_For_Opportunities-34D399?style=for-the-badge" />
-  </p>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
-
-## 💼 Work Experience & Education
-
-### 💼 Professional Experience
-
-```
-💼 Full Stack Developer | Ponnaiya's Code & Genome Pvt Ltd
-📅 July 2025 - July 2026
-✦ Architected full-stack e-commerce web applications & 3D Molecular Visualization Systems.
-✦ Engineered real-time WebGL rendering pipelines for scientific data exploration.
-✦ Optimized API throughput and data fetching mechanisms across frontend and backend layers.
-
-💼 Fullstack Developer (Intern) | Geosoft Technologies
-📅 Jan 2025 - Jun 2025 · Madurai, India
-✦ Built AI-driven digital marketing and SEO automation tools using React, TailwindCSS, & Python.
-✦ Reduced manual content processing work by 40% through NLP blog post generation.
-✦ Integrated Spring Boot Java microservices and OpenAI/Google Analytics REST endpoints.
-```
-
-### 🎓 Education
-
-```
-🎓 Master of Computer Applications (MCA)
-🏛️ KLN College of Engineering | 2023 - 2025
-
-🎓 Bachelor of Computer Science (B.Sc CS)
-🏛️ The American College | 2020 - 2023
-```
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
-
-## ⚡ Currently Exploring & Building
-
-```
-🚀 Next.js 14 App Router, Server Actions, & Partial Prerendering
-🎨 Advanced Shader programming with Three.js & React Three Fiber (R3F)
-🤖 Fast, async NLP microservices with Python, FastAPI, & LangChain
-```
+- 🚀 **Next.js 14 App Router**: Server Components, Actions, & Partial Prerendering
+- 🎨 **3D Graphics & WebGL**: Shader programming with Three.js & React Three Fiber (R3F)
+- 🤖 **AI Microservices**: Async NLP pipelines using Python & FastAPI
 
 <br/>
 
@@ -257,19 +281,21 @@
 
   <p>Whether you have a project idea, job opportunity, or just want to connect — feel free to drop a message!</p>
 
-  <a href="https://linkedin.com/in/karthick-pandi-006156279">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/karthick-pandi-006156279" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:karthickpandi0328@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/karthick0328-design">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
   
   <p align="center">
-    <i>Thanks for visiting my profile 🚀 | Built with passion &amp; precision by Karthick Pandi</i>
+    <sub>Thanks for visiting my profile 🚀 | Built with passion &amp; precision by Karthick Pandi</sub>
   </p>
 </div>
