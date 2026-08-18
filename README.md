@@ -29,7 +29,7 @@
 
 <table border="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <p>
         Hi there! 👋 I'm <b>Karthick Pandi</b>, a passionate <b>Full Stack Developer</b> with a Master's degree in Computer Applications (MCA). I specialize in engineering high-performance web platforms, interactive 3D visualizations, and AI-powered automation tools.
       </p>
@@ -43,10 +43,14 @@
         <li>⚡ <b>Superpower</b>: Bridging robust backend architecture with pixel-perfect frontend UI</li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/top-languages.svg" alt="Top Languages" width="100%" />
-      </div>
+    <td width="40%" valign="top" align="center">
+      <h3>📊 Most Used Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-42%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-32%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/HTML5_%26_CSS3-16%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
@@ -184,10 +188,18 @@
 
 <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/section-divider.svg" width="100%" />
 
-## 📈 GitHub Activity & Stats
+## 📈 Developer Metrics & Highlights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/karthick0328-design/karthick0328-design/main/stats-card.svg" alt="GitHub Developer Profile Metrics" width="90%" />
+  <p>
+    <img src="https://img.shields.io/badge/Public_Repos-5%2B-00F2FE?style=for-the-badge&logo=github&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Experience-1%2B_Years-4ADE80?style=for-the-badge&logo=codeforces&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Education-MCA_Grad-C084FC?style=for-the-badge&logo=academic&logoColor=white" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Open_For_Opportunities-34D399?style=for-the-badge" />
+  </p>
 </div>
 
 <br/>
