@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 185" width="100%" height="100%">
+  <defs>
+    <linearGradient id="statsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect width="460" height="185" rx="12" fill="url(#statsBg)" stroke="#30363d" stroke-width="1.2" />
+
+  <!-- Title -->
+  <text x="24" y="34" fill="url(#accentGlow)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700">GitHub Developer Profile Metrics</text>
+  <line x1="24" y1="46" x2="436" y2="46" stroke="#21262d" stroke-width="1" />
+
+  <!-- Metrics Grid -->
+  <g transform="translate(24, 66)">
+    <!-- Repositories -->
+    <rect x="0" y="0" width="195" height="42" rx="8" fill="#0b0f17" stroke="#1f2937" stroke-width="1" />
+    <text x="14" y="26" fill="#38bdf8" font-family="sans-serif" font-size="16" font-weight="800">5+</text>
+    <text x="44" y="25" fill="#9ca3af" font-family="sans-serif" font-size="12">Public Projects</text>
+
+    <!-- Experience -->
+    <rect x="215" y="0" width="195" height="42" rx="8" fill="#0b0f17" stroke="#1f2937" stroke-width="1" />
+    <text x="229" y="26" fill="#4ade80" font-family="sans-serif" font-size="16" font-weight="800">1+ Year</text>
+    <text x="295" y="25" fill="#9ca3af" font-family="sans-serif" font-size="12">Full-Stack Exp</text>
+
+    <!-- Mastered Technologies -->
+    <rect x="0" y="52" width="195" height="42" rx="8" fill="#0b0f17" stroke="#1f2937" stroke-width="1" />
+    <text x="14" y="78" fill="#c084fc" font-family="sans-serif" font-size="16" font-weight="800">10+</text>
+    <text x="54" y="77" fill="#9ca3af" font-family="sans-serif" font-size="12">Core Technologies</text>
+
+    <!-- Availability Status -->
+    <rect x="215" y="52" width="195" height="42" rx="8" fill="#064e3b" fill-opacity="0.3" stroke="#10b981" stroke-width="0.8" />
+    <circle cx="229" cy="73" r="4" fill="#10b981" />
+    <text x="240" y="77" fill="#34d399" font-family="sans-serif" font-size="11.5" font-weight="600">Open For Opportunities</text>
+  </g>
+</svg>
